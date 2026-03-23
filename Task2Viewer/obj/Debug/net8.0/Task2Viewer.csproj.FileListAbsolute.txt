@@ -1,0 +1,14 @@
+C:\Users\dubic\OneDrive\Desktop\c#learn\Task2Viewer\bin\Debug\net8.0\Task2Viewer.exe
+C:\Users\dubic\OneDrive\Desktop\c#learn\Task2Viewer\bin\Debug\net8.0\Task2Viewer.deps.json
+C:\Users\dubic\OneDrive\Desktop\c#learn\Task2Viewer\bin\Debug\net8.0\Task2Viewer.runtimeconfig.json
+C:\Users\dubic\OneDrive\Desktop\c#learn\Task2Viewer\bin\Debug\net8.0\Task2Viewer.dll
+C:\Users\dubic\OneDrive\Desktop\c#learn\Task2Viewer\bin\Debug\net8.0\Task2Viewer.pdb
+C:\Users\dubic\OneDrive\Desktop\c#learn\Task2Viewer\obj\Debug\net8.0\Task2Viewer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dubic\OneDrive\Desktop\c#learn\Task2Viewer\obj\Debug\net8.0\Task2Viewer.AssemblyInfoInputs.cache
+C:\Users\dubic\OneDrive\Desktop\c#learn\Task2Viewer\obj\Debug\net8.0\Task2Viewer.AssemblyInfo.cs
+C:\Users\dubic\OneDrive\Desktop\c#learn\Task2Viewer\obj\Debug\net8.0\Task2Viewer.csproj.CoreCompileInputs.cache
+C:\Users\dubic\OneDrive\Desktop\c#learn\Task2Viewer\obj\Debug\net8.0\Task2Viewer.dll
+C:\Users\dubic\OneDrive\Desktop\c#learn\Task2Viewer\obj\Debug\net8.0\refint\Task2Viewer.dll
+C:\Users\dubic\OneDrive\Desktop\c#learn\Task2Viewer\obj\Debug\net8.0\Task2Viewer.pdb
+C:\Users\dubic\OneDrive\Desktop\c#learn\Task2Viewer\obj\Debug\net8.0\Task2Viewer.genruntimeconfig.cache
+C:\Users\dubic\OneDrive\Desktop\c#learn\Task2Viewer\obj\Debug\net8.0\ref\Task2Viewer.dll
